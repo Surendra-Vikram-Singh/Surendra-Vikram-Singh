@@ -1,4 +1,4 @@
-![logo] (https://github.com/Surendra-Vikram-Singh/Surendra-Vikram-Singh/blob/main/git-dash.jpg?raw=true)
+![logo](https://github.com/Surendra-Vikram-Singh/Surendra-Vikram-Singh/blob/5a968a955c896ac8776ce01e1478389dc14a96c7/git-dash.jpg)
 
 <h1 align="center">Hi 👋, I'm Surendra Vikram Singh</h1>
 <h3 align="center">Crafting User-Centric Web Experiences with Angular & TypeScript</h3>
